@@ -154,5 +154,3 @@ second_panel_specific = pn.Column(pn.Row(button_3a, BAR_PLOT),
                          sizing_mode = "scale_both")
 
 pn.serve(menue)
-
-#hi
