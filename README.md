@@ -51,7 +51,7 @@ We are a group of three Cognintive Science students at the university of Osnabru
 
 Greetings from our GitHub-profiles
 - [The Yeti](https://github.com/Kirschberg32)
-- [](https://github.com/lahellmann)
-- [](https://github.com/mejansen)
+- [laHellmann](https://github.com/lahellmann)
+- [meJansen](https://github.com/mejansen)
 
 
